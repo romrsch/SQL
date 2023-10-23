@@ -17,8 +17,11 @@
 
 В этих презентациях есть примеры, которые помогут решить задачи
 Также есть ссылки на **справочное руководство по MySQL:**
+
 [Строковые функции](http://www.mysql.ru/docs/man/String_functions.html)
+
 [Математические функции](http://www.mysql.ru/docs/man/Mathematical_functions.html)
+
 [Функции даты и времени](http://www.mysql.ru/docs/man/Date_and_time_functions.html)
 
 Материал взят из [R class Tech](https://www.youtube.com/@Rclass) для самоподготовки по БД MySQL
